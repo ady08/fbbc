@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # coding=utf-8
-#///.coded by Nicoleus Sitorus
+#///.coded by Nicoleus Gokil
 import time
 import os,sys
-import fbbrute
+import fbbrute.py
 
 
 def prRed(skk): print("\033[91m {}\033[00m" .format(skk)) 
