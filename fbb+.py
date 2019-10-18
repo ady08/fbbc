@@ -3,7 +3,7 @@
 #///.coded by Nicoleus Sitorus
 import time
 import os,sys
-from cadow import fbbrute
+import fbbrute
 
 
 def prRed(skk): print("\033[91m {}\033[00m" .format(skk)) 
